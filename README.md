@@ -1,6 +1,6 @@
 # pyUpload
 Upload Demo
 ```shell
-source .bashrc
+source ~/.bashrc
 nohup python -u pyUpload.py &
 ```
